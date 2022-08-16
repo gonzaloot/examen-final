@@ -1,0 +1,3 @@
+
+codigo: 1 | nombre: Nicolas | curso: Ciencias | promedio: 12.75nota114 | nota2: 15 | nota3: 12 | nota410
+codigo: 1 | nombre: Gonzalo | curso: Ciencias | promedio: 14.25nota114 | nota2: 15 | nota3: 18 | nota410
